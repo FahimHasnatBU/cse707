@@ -7,6 +7,12 @@ Cloud Native NoSQL Database vs SQL_Databases
 Presentation Slide:
 https://docs.google.com/presentation/d/1Tg1cmFCkeFq0YIYCxD2noIXtnfRJpuTiUFKMPGDTRlE/edit?usp=sharing
 
+Conference: International Conference on Computer and Information Technology
+
+Track Name: ICCIT2022
+
+Paper ID: 12
+
 Group Number:
 01
 
